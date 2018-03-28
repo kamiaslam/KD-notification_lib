@@ -1,0 +1,3 @@
+defmodule NotificationsLib do
+
+end
